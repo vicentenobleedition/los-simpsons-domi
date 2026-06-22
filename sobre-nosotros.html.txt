@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Sobre Nosotros</title>
+</head>
+<body>
+
+<h1>Sobre Nosotros</h1>
+
+<p>Somos un sitio de entretenimiento con episodios por partes llamado Los Simpsons Domi.</p>
+
+<p>Creamos contenido animado inspirado en cultura popular.</p>
+
+<a href="index.html">Volver</a>
+
+</body>
+</html>

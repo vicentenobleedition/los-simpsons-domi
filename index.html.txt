@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Los Simpsons Domi</title>
+</head>
+
+<body style="background:#111;color:white;font-family:Arial;text-align:center;">
+
+<h1 style="color:gold;">LOS SIMPSONS DOMI</h1>
+
+<p>Series y episodios por partes</p>
+
+<hr>
+
+<h2>🎬 Último episodio</h2>
+
+<div style="background:#222;padding:15px;margin:20px;border-radius:10px;">
+    <h3>Episodio 1</h3>
+    <p>Parte 2 disponible pronto</p>
+    <button onclick="alert('Aquí luego pondremos el video')">
+        Ver episodio
+    </button>
+</div>
+
+<div style="background:#222;padding:15px;margin:20px;border-radius:10px;">
+    <h3>Episodio 2</h3>
+    <p>Nueva historia</p>
+    <button onclick="alert('Aquí luego pondremos el video')">
+        Ver episodio
+    </button>
+</div>
+
+<hr>
+
+<h2>📄 Páginas legales</h2>
+
+<a href="privacidad.html" style="color:gold;">Privacidad</a><br>
+<a href="contacto.html" style="color:gold;">Contacto</a><br>
+<a href="terminos.html" style="color:gold;">Términos</a><br>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Términos</title>
+</head>
+<body>
+
+<h1>Términos y Condiciones</h1>
+
+<p>El contenido es solo para entretenimiento.</p>
+
+<p>Nos reservamos el derecho de modificar el contenido sin aviso.</p>
+
+<a href="index.html">Volver</a>
+
+</body>
+</html>
